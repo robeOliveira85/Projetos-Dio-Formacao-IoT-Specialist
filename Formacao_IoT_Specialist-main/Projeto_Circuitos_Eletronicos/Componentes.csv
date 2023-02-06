@@ -1,0 +1,13 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"Rpot2",1,"250 kΩ Potenciômetro"
+"P1",1,"0.5 , 5  Fonte de energia"
+"Meter2",1,"Tensão Multímetro"
+"M1",1," Motor CC"
+"T1",1," Transistor NPN (BJT)"
+"R1, R2, R5, R6, R3",5,"1 kΩ Resistor"
+"D1",1,"Vermelho LED"
+"D2",1,"Amarelo LED"
+"D3",1,"Verde LED"
+"S1",1," Botão"
+"PIEZO1",1," Piezo"
